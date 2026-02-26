@@ -1,7 +1,7 @@
 # SOSQuake Bogotá 🛡️🌋
 **Sistema Móvil de Resiliencia Sísmica y Red de Auxilio Ciudadana**
 
-SOSQuake es una solución de ingeniería de software diseñada para la respuesta inmediata post-sismo en Bogotá, Colombia. A diferencia de las aplicaciones convencionales, SOSQuake transforma el dispositivo móvil en una baliza de rescate autónoma capaz de operar incluso ante el colapso de las redes de datos (4G/5G).
+SOSQuake es una solución  diseñada para la respuesta inmediata post-sismo en Bogotá, Colombia. A diferencia de las aplicaciones convencionales, SOSQuake está diseñada/pensada para transformar el dispositivo móvil en una baliza de rescate autónoma capaz de operar incluso ante el colapso de las redes de datos (4G/5G).
 
 ## 🚀 Características Principales
 
