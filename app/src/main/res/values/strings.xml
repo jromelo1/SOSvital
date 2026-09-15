@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SOSvital</string>
+    <string name="notification_listener_label">SOSvital – Detector Sísmico</string>
+
+    <!-- MainActivity -->
+    <string name="system_status">Estado del sistema</string>
+    <string name="emergency_contacts">Contactos de emergencia</string>
+    <string name="no_contacts">No hay contactos. Agrega al menos uno.</string>
+    <string name="your_name_label">Tu nombre (aparece en el SMS de auxilio)</string>
+    <string name="your_name_hint">Ej: María García</string>
+    <string name="save">Guardar</string>
+    <string name="name_saved">Nombre guardado</string>
+    <string name="open_notification_settings">Activar acceso a notificaciones</string>
+    <string name="battery_optimization">Excluir optimización de batería</string>
+    <string name="test_alert_btn">🔔 Simular alerta sísmica</string>
+    <string name="test_alert_title">Simular alerta</string>
+    <string name="test_alert_msg">Se abrirá la pantalla de emergencia con la cuenta regresiva real. ¿Continuar?</string>
+    <string name="simulate">Simular</string>
+    <string name="confirm_delete">Eliminar contacto</string>
+    <string name="confirm_delete_msg">¿Eliminar a %1$s de los contactos de emergencia?</string>
+    <string name="delete">Eliminar</string>
+
+    <!-- AddContactActivity -->
+    <string name="add_contact_title">Nuevo contacto de emergencia</string>
+    <string name="name_hint">Nombre completo</string>
+    <string name="phone_hint">Número celular (ej: +573001234567)</string>
+    <string name="save_contact">Guardar contacto</string>
+    <string name="fill_all_fields">Completa todos los campos</string>
+    <string name="invalid_phone">Número de teléfono inválido</string>
+    <string name="contact_saved">Contacto guardado</string>
+
+    <!-- AlertActivity -->
+    <string name="alert_title">⚠️ ALERTA SÍSMICA</string>
+    <string name="alert_subtitle">¿Estás bien?\nResponde antes de que el contador llegue a cero.</string>
+    <string name="im_ok">✓ ESTOY BIEN</string>
+    <string name="send_help_now">🆘 ENVIAR AUXILIO AHORA</string>
+    <string name="getting_location">Obteniendo ubicación…</string>
+    <string name="help_sent">Mensajes de auxilio enviados a %1$d contacto(s)</string>
+</resources>
